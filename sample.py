@@ -1,5 +1,5 @@
 a = 1
-b = 0
+b = 7
 
 if b !=0 :
     print(a/b)
