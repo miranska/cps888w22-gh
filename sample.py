@@ -4,5 +4,5 @@ b = 0
 if b !=0 :
     print(a/b)
 else:
-    print("Divizion by zero)
+    print("Divizion by zero")
 
